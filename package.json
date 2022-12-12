@@ -1,0 +1,17 @@
+{
+  "name": "date-holidays-example",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sample project for date-holidays",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "date-holidays": "^3.16.12",
+    "mocha": "^10.2.0"
+  }
+}
